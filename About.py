@@ -40,7 +40,7 @@ def show_about_page():
     st.markdown(
         """
         WhatsApp Chat Analyser was created by [Kavaskar]().
-        You can find the source code on [GitHub]().
+        You can find the source code on [https://github.com/kavaskar786/streamlit.git]().
         """
     )
 

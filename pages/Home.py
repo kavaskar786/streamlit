@@ -12,8 +12,8 @@ st.set_page_config(
     initial_sidebar_state="expanded",
     menu_items={
         'Get Help': 'mailto:dporwal214@gmail.com',
-        'Report a bug': "https://www.github.com/DhananjayPorwal/whatsapp-chat-analyser/issues",
-        'About': "### Created by [Dhananjay Porwal](https://www.linkedin.com/in/dhananjayporwal/)"
+        'Report a bug': "https://github.com/kavaskar786/streamlit.git",
+        'About': "### Created by [Dhananjay Porwal](https://github.com/kavaskar786/streamlit.git)"
     }
 )
 
